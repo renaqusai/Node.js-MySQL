@@ -1,8 +1,5 @@
 var mysql = require('mysql');
 var inquirer = require('inquirer');
-var accounting = require('accounting');
-var chalk = require('chalk');
-var Bamazon = require('./BamazonTools');
 
 var connection = mysql.createConnection({
   host: "localhost",
