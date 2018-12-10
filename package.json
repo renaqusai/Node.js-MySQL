@@ -1,0 +1,29 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon clone",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renaqusai/Node.js-MySQL.git"
+  },
+  "keywords": [
+    "Amazon",
+    "clone"
+  ],
+  "author": "Qusai Amer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renaqusai/Node.js-MySQL/issues"
+  },
+  "homepage": "https://github.com/renaqusai/Node.js-MySQL#readme",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "chalk": "^1.1.3",
+    "inquirer": "^1.1.2",
+    "mysql": "^2.11.1"
+  }
+}
